@@ -3,6 +3,8 @@
 The ROSE Online game exists out of several file types. Below is a list of all data types and a link to its documentation.
 
 ## File files
+* [`STB` - String Table](formats/STB.md)
+
 ### To be documented
 * `AIP` - AI Program
 * `CHR` - Character model data
@@ -23,7 +25,6 @@ The ROSE Online game exists out of several file types. Below is a list of all da
 * `MRP` - 
 * `PTL` - Particle effect 
 * `QSD` - Quest Data
-* `STB` - String Table
 * `STL` - String Table Language
 * `TBL` - Range Table
 * `TIL` - Tile info 
