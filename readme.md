@@ -4,6 +4,7 @@ The ROSE Online game exists out of several file types. Below is a list of all da
 
 ## File files
 * [`STB` - String Table](formats/STB.md)
+* [`VFS` - Virtual File System](formats/VFS.md)
 
 ### To be documented
 * `AIP` - AI Program
@@ -29,7 +30,6 @@ The ROSE Online game exists out of several file types. Below is a list of all da
 * `TBL` - Range Table
 * `TIL` - Tile info 
 * `TSI` - Texture string index
-* `VFS` - Virtual File System
 * `ZCA` - 3d Camera Motion
 * `ZMD` - 3d Skeleton
 * `ZMO` - 3d Motion 
