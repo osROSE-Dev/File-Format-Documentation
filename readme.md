@@ -3,18 +3,18 @@
 The ROSE Online game exists out of several file types. Below is a list of all data types and a link to its documentation.
 
 ## File files
+* [`AIP` - AI Program](formats/AIP.md)
 * [`STB` - String Table](formats/STB.md)
 * [`VFS` - Virtual File System](formats/VFS.md)
 
 ### To be documented
-* `AIP` - AI Program
 * `CHR` - Character model data
 * `CON` - Conversation
 * `CXE` - Conversaton x Event
 * `DAT` - 
 * `DB` - 
 * `EFT` - Effect
-* `HIM`  - Heights Map
+* `HIM` - Heights Map
 * `HLP` - 
 * `ID` - Texture index
 * `idx` - VFS index
