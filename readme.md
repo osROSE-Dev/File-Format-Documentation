@@ -3,7 +3,7 @@
 The ROSE Online game exists out of several file types. Below is a list of all data types and a link to its documentation.
 
 ## File files
-* [`AIP` - AI Program](formats/AIP.md)
+* [`AIP` - AI Program](formats/AIP.md) (Work in Progress)
 * [`STB` - String Table](formats/STB.md)
 * [`VFS` - Virtual File System](formats/VFS.md)
 
